@@ -1,20 +1,9 @@
-## Welcome to GitHub Pages
+## Augustine Madamombe's page
 
-You can use the [editor on GitHub](https://github.com/amadamombe/amadamombe-github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+About me: Aspiring developer based in leeds 
 
 [![Judge-Dredd-Sylvester-Stallone-Painting-Art-Helmet-528867-1500x2000.jpg](https://i.postimg.cc/vTfnS67Q/Judge-Dredd-Sylvester-Stallone-Painting-Art-Helmet-528867-1500x2000.jpg)](https://postimg.cc/7JPb5hQc)
 
 
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amadamombe/amadamombe-github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
